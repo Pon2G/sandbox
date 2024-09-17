@@ -1,0 +1,5 @@
+# Setup
+## Ubuntu / Debian
+'''
+# apt install tcl-dev tk-dev
+'''
